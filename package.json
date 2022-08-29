@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Krishnamohan-Yerrabilli/Node-Express-Docker/issues"
   },
-  "homepage": "https://github.com/Krishnamohan-Yerrabilli/Node-Express-Docker#readme"
+  "homepage": "https://github.com/Krishnamohan-Yerrabilli/Node-Express-Docker#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
