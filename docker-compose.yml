@@ -9,5 +9,5 @@ services:
   mongo:
     image: mongo
     environment:
-      MONGO_INITDB_ROOT_USERNAME=mohan
-      MONGO_INITDB_ROOT_PASSWORD=mohan123
+      - MONGO_INITDB_ROOT_USERNAME=mohan
+      - MONGO_INITDB_ROOT_PASSWORD=mohan123
