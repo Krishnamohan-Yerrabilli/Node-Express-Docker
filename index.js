@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 
 const app = express();
 
-app.get("/", (req, res) => {
+app.get("/", (req, res) => { 
     res.send("<h1>This is an unbeatble course this is gold, I'm learning something here</h1>");
 })
 
